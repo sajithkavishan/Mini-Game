@@ -3,9 +3,9 @@ I am still working on this one so it is not complete.
 This code create by using c++ language. This is a game that get random gift when user(depend on input) and for a user have only 3 chances.
 This was create by using do while loop, while loop, if, switch etc.. functions
 
-# Temperature-Converter
+# MINI GAME
 ![Masterhead](https://res.cloudinary.com/practicaldev/image/fetch/s--xVCufn18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5nnkrcc3kixypm642opg.gif)
-<h1 align="center"> TEMP CONVERETER USING - C++</h1>
+<h1 align="center"> MINI GAME USING - C++</h1>
 <h3 align="center">A passionate Developer & Graphic Designer</h3>
 
 <h3 align="left">Connect with me:</h3>
