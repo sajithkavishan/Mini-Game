@@ -1,5 +1,5 @@
 # Mini-Game
-I am still working on this one so it is not complete.
+I am completed this one but in future the I am gonna add more functioning to this.
 This code create by using c++ language. This is a game that get random gift when user(depend on input) and for a user have only 3 chances.
 This was create by using do while loop, while loop, if, switch etc.. functions
 
